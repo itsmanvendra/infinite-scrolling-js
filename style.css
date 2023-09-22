@@ -1,0 +1,14 @@
+.itemContainer{
+    height: 20rem;
+    width: 100%;
+
+}
+
+.itemContainer img{
+    height: 70%;
+    width: 100%;
+    background-color: #f1f1f1;
+    border-radius: 0.5rem;
+    overflow: hidden;
+
+}
