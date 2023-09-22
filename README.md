@@ -1,4 +1,3 @@
 # infinite-scrolling-js
 
-To avoid pagination, Frontend devs came up with the solution of lazy loading, so when a user reaches the end of the page, more results are automatically loaded to have a good user experience.
-Implemented Infinite Scrolling using Intersection Observer API.
+To eliminate the need for pagination, our frontend developers have introduced a solution called lazy loading, which automatically loads more results as the user reaches the bottom of the page. This approach, known as Infinite Scrolling, is designed to enhance the user experience. We've implemented it using the Intersection Observer API.
